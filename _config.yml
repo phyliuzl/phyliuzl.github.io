@@ -14,7 +14,7 @@ description              : &description "PhD in Theoretical Physics"
 url                      : https://phyliuzl.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "phyliuzl/phyliuzl.github.io"
-teaser                   : "DSC_4749.png"
+teaser                   : "Profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
