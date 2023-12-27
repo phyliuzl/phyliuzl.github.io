@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zelong's Personal Page!"
+title: "Welcome to Zelong's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
