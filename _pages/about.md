@@ -20,7 +20,7 @@ Precision tests of the Standard Model in particle physics is essential to unders
 
 The Large Hadron Collider (LHC) located at CERN near Geneva offers an excellent platform to explore the properties of elementary particles and forces at extremely high energies and tiny scales. The primary particles collided at the LHC are protons, consisting of quarks and gluons (also called partons). Quantum Chromodynamics (QCD) is a quantum field theory describing the strong forces, which govern the interaction between partons. Perturbative QCD is a powerful approach to investigate the theoretical predictions of QCD processes. In practice, various obersevables at hadron colliders receive sizable corrections from perturbative QCD, e.g. Higgs and top quark productions. Therefore, higher-order QCD calculations play a key role in explaining the experimental results and in revealing the properties of fundamental particles.
 
-The computation of higher-order QCD corrections to a collider observable may entail a long journey. First, we will encounter a large number (hundreds or even thousands) of higher-loop Feynman diagrams. In 
+The computation of higher-order QCD corrections to a collider observable may entail a long journey, involving the calculation of higher-loop scattering amplitudes and subtraction of infrared divergences in real emission. 
 
 Soft-collinear effective theory
 ------
