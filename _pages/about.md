@@ -26,12 +26,7 @@ Soft-collinear effective theory
 ------
 Fixed-order results in perturbative QCD are not always reliable, in particular for the processes with a strong hierarchy of scales, because the large logarithms of ratio of scales violate the convergence of perturbative expansion in the strong coupling constant. To make a reliable theoretical prediction, we have to resum the large logarithms to all order in the strong coupling constant, and do expansion in the inverse of the logarithm.
 
-.aligncenter{
-    clear: both;
-    display: block;
-    margin: auto;
-}
-<img src='/images/facamp.png' height="400" width="500" class="aligncenter">
+<img src='/images/facamp.png' height="400" width="500">
 
 If an observable is sensitive to soft or collinear parton emmisions, soft-collinear effective theory (SCET) provides a systematic way to separate the contributions from different momentum scales into a series of single scale problems. In other words, contributions from soft, collinear and hard interactions can be separated by factorization in SCET. The large logarithms can be resummed through the renormalization-group evolutions of Wilson coefficients or low-energy matrix elements between scales. 
 
