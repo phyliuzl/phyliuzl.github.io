@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zelong LIU, a tenure-track researcher of theorerical physics at [IHEP](http://english.ihep.cas.cn) in Beijing. My research interests focus on perturbative quantum field theory and collider physics. My publication can be found in [INSPIRE](https://inspirehep.net/authors/1272415). 
+I'm Zelong LIU, a theoretical physicist at [IHEP](http://english.ihep.cas.cn) in Beijing. My research interests focus on perturbative quantum field theory and collider physics. My publication can be found in [INSPIRE](https://inspirehep.net/authors/1272415). 
 
 
 Research Interests
