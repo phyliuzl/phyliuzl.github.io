@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-My publication can be found in [INSPIRE](https://inspirehep.net/authors/1272415). 
+Please find my publications in [INSPIRE](https://inspirehep.net/authors/1272415). 
