@@ -17,7 +17,7 @@ author_profile: true
 
 @ Interlaken, Switzerland.
 
-<img src='/images/Interlaken.png' height="300" width="500">
+<img src='/images/IMG_0821.png' height="500" width="400">
 
 @ Eisgrub-Bräu, Mainz, Germany
 
