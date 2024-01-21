@@ -32,3 +32,5 @@ Factorization theorems in scale ratios have been established for many processes 
 
 At leading power, a typical factorization theorem consists of a product of functions each associated with a single scale, while several complications arise at subleading power. It is still a big challenge to establish a rigorous factorization theorem due to the presence of endpoint divergences.
 
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/whitesands.png'>"
+
