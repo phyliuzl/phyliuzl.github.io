@@ -15,11 +15,11 @@ author_profile: true
 <img src='/images/fullsizeoutput_255e.png' height="300" width="500">
 
 
-@ Interlaken, Switzerland.
+@ Eisgrub-Bräu, Mainz, Germany
 
 <img src='/images/IMG_0821.png' height="500" width="400">
 
-@ Eisgrub-Bräu, Mainz, Germany
+@ Interlaken, Switzerland.
 
 <img src='/images/Interlaken.png' height="300" width="500">
 
