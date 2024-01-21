@@ -19,7 +19,7 @@ Invited talk in the 10th anniversary of MITP - JGU Mainz, Germany, 08.05.2023
    
 [Factorization, resummation and endpoint divergences in Higgs to diphoton decay](https://indico.mitp.uni-mainz.de/event/243/contributions/4058/)
 ---
-Invited talk in MITP workshop "Power Expansions on the Lightcone: From Theory to Phenomenology", JGU Mainz, Germany, 21.09.2021
+Invited talk in MITP workshop "Power Expansions on the Lightcone: From Theory to Phenomenology", JGU Mainz, Germany, 21.09.2022
    
 [Infrared singularities of QCD amplitudes with a massive parton](https://indico.cern.ch/event/1181867/)
 ---
