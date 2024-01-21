@@ -7,11 +7,9 @@ author_profile: true
 
 Introduction to Soft-Collinear Effective Theory 
 ---
-For graduate course
+Graduate course, University of Bern, Switzerland.
 
 September 20 to October 13, 2022
-
-University of Bern, Switzerland .
 
 Rating: Good (4.82/6.0) 
 
