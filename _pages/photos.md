@@ -5,10 +5,17 @@ permalink: /photos/
 author_profile: true
 ---
 
-<img src='/images/Capri.png'>
+@ White Sands National Park, New Mexico, U.S.A.
+<img src='/images/whitesands.png' height="300" width="500">
 
-<img src='/images/Interlaken.png'>
+@ Petrified Forest National Park, Arizona, U.S.A.
+<img src='/images/fullsizeoutput_255e.png' height="300" width="500">
 
-<img src='/images/Bern.png'>
+@ Interlaken, Switzerland.
+<img src='/images/Interlaken.png' height="300" width="500">
 
-<img src='/images/whitesands.png'>
+@ Rosengarten Bern, Switzerland.
+<img src='/images/Bern.png' height="300" width="500">
+
+@Anacapri, Italy
+<img src='/images/Capri.png' height="300" width="500">
