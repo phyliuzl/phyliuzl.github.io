@@ -1,5 +1,5 @@
 White Sands National Park
 ---
-excerpt: "<img src='/images/whitesands.png'>"
+"<img src='/images/whitesands.png'>"
 collection: portfolio
 ---
