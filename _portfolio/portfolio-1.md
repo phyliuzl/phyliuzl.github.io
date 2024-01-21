@@ -1,5 +1,5 @@
+White Sands National Park
 ---
-title: "@ Wihte Sands National Park"
 excerpt: "<img src='/images/whitesands.png'>"
 collection: portfolio
 ---
