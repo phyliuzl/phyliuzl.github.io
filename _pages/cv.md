@@ -20,7 +20,7 @@ Work experience
 * 01.11.2019-31.08.2021, Postdoc, Los Alamos National Laboratory, New Mexico, U.S.A
 * 01.09.2021-31.10.2022, Postdoc, University of Bern, Switzerland
 * 01.11.2022-30.11.2023, CERN fellow, Geneva, Switzerland
-* 04.12.2023-now, Staff physicist (tenure-track), IHEP, Beijing, China
+* 04.12.2023-now, Staff (tenure-track), IHEP, Beijing, China
     
 Referee Service
 ======
