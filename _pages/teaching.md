@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Introduction to Soft-Collinear Effective Theory 
+[Introduction to Soft-Collinear Effective Theory](https://www.itp.unibe.ch/studies/graduate_program/old_courses/h22_introduction_to_soft_collinear_effective_theory/index_eng.html)
 ---
 Graduate course, University of Bern, Switzerland.
 
