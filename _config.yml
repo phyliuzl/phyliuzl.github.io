@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bonjour!"
+title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Zelong LIU"
 description              : &description "PhD in Theoretical Physics"
