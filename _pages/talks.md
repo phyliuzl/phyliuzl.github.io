@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and Presentations"
+title: "Selected Talks"
 permalink: /talks/
 author_profile: true
 ---
@@ -15,7 +15,7 @@ Invited talk in RADCOR 2023 - Crieff, Scotland, 30.05.2023
    
 [Infrared singularities of QCD amplitudes with a massive parton](https://indico.mitp.uni-mainz.de/event/341/sessions/1064/#20230508)
 ---
-Invited talk in the 10th anniversary of MITP - JGU Mainz, Germany, 08.05.2023
+Invited talk in the 10th anniversary of MITP, JGU Mainz, Germany, 08.05.2023
    
 [Factorization, resummation and endpoint divergences in Higgs to diphoton decay](https://indico.mitp.uni-mainz.de/event/243/contributions/4058/)
 ---
