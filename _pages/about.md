@@ -28,7 +28,7 @@ Fixed-order results in perturbative QCD are not always reliable, in particular f
 
 <img src='/images/facamp.png' height="320" width="400">
 
-If an observable is sensitive to soft or collinear parton emmisions, soft-collinear effective theory (SCET) provides a systematic way to separate the contributions from different momentum scales into a series of single scale problems. In other words, contributions from soft, collinear and hard interactions can be separated by factorization in SCET. The large logarithms can be resummed through the renormalization-group evolutions of Wilson coefficients or low-energy matrix elements between scales. 
+If an observable is sensitive to soft or collinear parton emissions, soft-collinear effective theory (SCET) provides a systematic way to separate the contributions from different momentum scales into a series of single scale problems. In other words, contributions from soft, collinear and hard interactions can be separated by factorization in SCET. The large logarithms can be resummed through the renormalization-group evolutions of Wilson coefficients or low-energy matrix elements between scales. 
 
 Factorization theorems in scale ratios have been established for many processes in the past decades. To improve the accuracy of resummation, it is crucial to investigate the infrared singularities of hard scattering amplitudes and to calculate higher-order corrections to low-energy matrix elements and Wilson coefficients. 
 
